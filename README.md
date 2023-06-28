@@ -1,1 +1,2 @@
 # Tanks
+Tanks is an action game where players control tanks and battle against enemies. The game offers a single-player mode with levels and challenges, as well as a multiplayer mode for intense battles between players. There are upgrades and special powers available to improve your tank and survive in combat. For this game, I have made several modifications, such as map changes and adding a timer in the top right corner.
